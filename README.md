@@ -48,7 +48,6 @@ The credit scoring system (0-1000) evaluates wallet behavior using these key fac
   - **-100 points** for any liquidation events
 
 Scores are bounded between 0 and 1000, with higher scores indicating more reliable borrowing behavior.
-   ```
 
 ## 🛠 Usage
 
