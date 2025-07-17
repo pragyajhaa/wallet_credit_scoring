@@ -155,8 +155,6 @@ After running the analysis, you'll find these files in the `results` directory:
    - High vs. low scoring wallet comparisons
    - Risk factors and recommendations
 
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
